@@ -1,0 +1,52 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: black;
+}
+
+.logo_link {
+
+  list-style: none;
+  text-decoration: none;
+  color:blue;
+  text-transform: lowercase;
+  font-weight: 200;
+  
+} 
+.titulo_hamburguer  {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: inset;
+    padding-left: 3%;
+    
+}
+
+.card_hamburguer ,.card_porcao{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  
+    
+   }
+.titulo_porcao {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: inset;
+    padding-left: 3%;
+    
+
+}
+    
+.descriscao {
+    font: size 15px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: inset;
+    padding: center;
+
+
+}
+.descrisção_produto{
+     font-size: 10px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
